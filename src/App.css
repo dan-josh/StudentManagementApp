@@ -1,0 +1,9 @@
+.hover-dark:hover{
+  cursor: pointer;
+  background-color: red !important;
+}
+
+
+.linkBtn{
+  text-decoration: none;
+}

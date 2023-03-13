@@ -1,0 +1,177 @@
+{
+  "course": [
+    {
+      "courseName": "ceadcac",
+      "courseDesc": "",
+      "id": 13
+    },
+    {
+      "courseName": "React JS",
+      "courseDesc": "I am react new",
+      "id": 14
+    },
+    {
+      "courseName": "dan",
+      "courseDesc": "sds",
+      "id": 15
+    },
+    {
+      "courseName": "Daniel",
+      "courseDesc": "cadcdx",
+      "id": 16
+    },
+    {
+      "courseName": "vsdv",
+      "courseDesc": "vsdvds",
+      "id": 17
+    },
+    {
+      "courseName": "vsdv",
+      "courseDesc": "vdfbg",
+      "id": 18
+    }
+  ],
+  "subject": [
+    {
+      "subjectName": "Daniel",
+      "subjectDesc": "I am dann ciudgiuofjd",
+      "id": 3
+    },
+    {
+      "subjectName": "cedse",
+      "subjectDesc": "vdsvd",
+      "id": 4
+    },
+    {
+      "subjectName": "DSA",
+      "subjectDesc": "DSA new",
+      "id": 5
+    }
+  ],
+  "classs": [
+    {
+      "classsName": "Course 3",
+      "classsLevel": "3",
+      "classsSection": "B",
+      "id": 1
+    },
+    {
+      "classsName": "Course 4",
+      "classsLevel": "6",
+      "classsSection": "F",
+      "id": 2
+    },
+    {
+      "classsName": "Course 1",
+      "classsLevel": "5",
+      "classsSection": "Z",
+      "id": 3
+    },
+    {
+      "classsName": "Course 2",
+      "classsLevel": "10",
+      "classsSection": "z",
+      "id": 4
+    }
+  ],
+  "faculty": [
+    {
+      "facultyId": "cdasce",
+      "facultyName": "abcdefg",
+      "facultyEmail": "csd@gmail.com",
+      "facultyContact": "845614",
+      "facultyAddress": "caecd",
+      "id": 3
+    },
+    {
+      "facultyId": "123",
+      "facultyName": "Daniel",
+      "facultyEmail": "dan@gmail.com",
+      "facultyContact": "8722164076",
+      "facultyAddress": "Bangalore",
+      "id": 4
+    },
+    {
+      "facultyId": "cdas",
+      "facultyName": "casdcd",
+      "facultyEmail": "cds@",
+      "facultyContact": "4584",
+      "facultyAddress": "vsdvgf",
+      "id": 5
+    },
+    {
+      "facultyId": "vfsd",
+      "facultyName": "vsdfvdf",
+      "facultyEmail": "dfv@",
+      "facultyContact": "54546",
+      "facultyAddress": "nmgh",
+      "id": 6
+    },
+    {
+      "facultyId": "nmhgnm",
+      "facultyName": "vsdfvdf",
+      "facultyEmail": "dfv@",
+      "facultyContact": "54546",
+      "facultyAddress": " gh",
+      "id": 7
+    },
+    {
+      "facultyId": "nmghnmg",
+      "facultyName": "vsdfvdf",
+      "facultyEmail": "dfv@",
+      "facultyContact": "54546",
+      "facultyAddress": " gh",
+      "id": 8
+    },
+    {
+      "facultyId": "4mw16me028",
+      "facultyName": "Nishchitha",
+      "facultyEmail": "nish@gmail.com",
+      "facultyContact": "8722164076",
+      "facultyAddress": "Bangalore",
+      "id": 9
+    }
+  ],
+  "student": [
+    {
+      "studentId": "1234",
+      "studentName": "Vrn",
+      "studentClass": "Course 4 6-F",
+      "id": 2
+    },
+    {
+      "studentId": "456",
+      "studentName": "Daniel",
+      "studentClass": "Course 2 10-z",
+      "id": 3
+    }
+  ],
+  "cps": [
+    {
+      "cpsClass": "cfsdc",
+      "cpsFaculty": "Chaitanya",
+      "cpsSubject": "React",
+      "id": 1
+    },
+    {
+      "cpsFaculty": "abcdefg",
+      "cpsSubject": "cedse",
+      "cpsClass": "Course 3 3-B",
+      "id": 2
+    },
+    {
+      "cpsFaculty": "Nishchitha",
+      "cpsSubject": "DSA",
+      "cpsClass": "Course 2 10-z",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "usersName": "Daniel",
+      "usersUsername": "dan_josh",
+      "usersType": "Admin",
+      "id": 1
+    }
+  ]
+}
